@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "save"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "save"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "save"
+        }
+    }
+}
